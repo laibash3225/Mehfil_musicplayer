@@ -2,7 +2,7 @@ const songs = [
   {
     id: 1,
     title: "Aisa Banna Sawarna Mubarak",
-    artist: "Unknown",
+    artist: "Nusrat Fateh Ali Khan",
     album: "Qawali Collection",
     category: "Qawwali",
     duration: 0,
@@ -13,7 +13,7 @@ const songs = [
   {
     id: 2,
     title: "Khasara",
-    artist: "Unknown",
+    artist: "Abdul Hanan",
     album: "Song Collection",
     category: "Song",
     duration: 0,
@@ -35,7 +35,7 @@ const songs = [
   {
     id: 4,
     title: "Mera Pegham Pakistan",
-    artist: "Unknown",
+    artist: "Nusrat Fateh Ali Khan",
     album: "Pakistan Collection",
     category: "National",
     duration: 0,
@@ -57,7 +57,7 @@ const songs = [
   {
     id: 6,
     title: "Sar-e-La-Makan Se Talab Hui",
-    artist: "Unknown",
+    artist: "Ali Zafar",
     album: "Naat Collection",
     category: "Naat",
     duration: 0,
@@ -90,7 +90,7 @@ const songs = [
   {
     id: 9,
     title: "Tu Rahim Hai Tu Karim Hai",
-    artist: "Unknown",
+    artist: "Ali Zafar",
     album: "Naat Collection",
     category: "Naat",
     duration: 0,
@@ -100,7 +100,7 @@ const songs = [
   {
     id: 10,
     title: "Jhol",
-    artist: "Unknown",
+    artist: "Mannu,Annural",
     album: "Song Collection",
     category: "Song",
     duration: 0,
@@ -108,9 +108,9 @@ const songs = [
     url: "music/Jhol.mp3"
   },
   {
-    id: 9,
+    id: 11,
     title: "Jo tu na mila",
-    artist: "Unknown",
+    artist: "Asim Azhar",
     album: "Song Collection",
     category: "Song",
     duration: 0,
@@ -118,24 +118,14 @@ const songs = [
     url: "music/Jo tu na mila.mp3"
   },
   {
-    id: 9,
+    id: 12,
     title: "Guzaarishein",
-    artist: "Unknown",
+    artist: "Samar Jafri",
     album: "Song Collection",
     category: "Song",
     duration: 0,
     cover: "music/generic_music_cover.png",
     url: "music/Guzaarishein.mp3"
-  },
-  {
-    id: 9,
-    title: "Balaghal ula bikamalihi",
-    artist: "Unknown",
-    album: "Naat Collection",
-    category: "Naat",
-    duration: 0,
-    cover: "music/generic_music_cover.png",
-    url: "music/balaghal-ula-bikamalihi.mp3"
   }
 
 ];
